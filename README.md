@@ -27,7 +27,7 @@ helm install qualys-agent nelssec/qualys-agent \
   --namespace qualys --create-namespace \
   --set-string secrets.activationId=your-activation-id \
   --set-string secrets.customerId=your-customer-id \
-  --set-string config.serverUri=https://your.qualys.server.uri \
+  --set-string config.serverUri=https://qagpublic.qg1.apps.qualys.com/CloudAgent/ \
   --set-string config.logLevel=INFO
 
 The install command creates a Kubernetes Secret containing the activationId and customerId. 
