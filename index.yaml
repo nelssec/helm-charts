@@ -1,24 +1,14 @@
 apiVersion: v1
 entries:
   qualys-agent:
-  - apiVersion: v2
-    appVersion: latest
-<<<<<<< HEAD
-    created: "2025-06-26T17:09:12.1084584-07:00"
-    description: A Helm chart for deploying the Qualys Cloud Agent as a DaemonSet
-    digest: 9f55bd993707e36112e409e0dc73af7aef972c50434a7dd8d291ce15492c05fc
-=======
-    created: "2025-06-26T22:31:38.7244478-07:00"
-    description: A Helm chart for deploying the Qualys Cloud Agent as a DaemonSet
-    digest: a4489f7e613d75a585b67c34d96098aa8feedd4a0ac1049cb00f8777405c3c2a
->>>>>>> 0922049 (Add qualys-agent 0.1.0)
-    name: qualys-agent
-    type: application
-    urls:
-    - https://nelssec.github.io/helm-charts/qualys-agent-0.1.0.tgz
-    version: 0.1.0
-<<<<<<< HEAD
-generated: "2025-06-26T17:09:12.1074581-07:00"
-=======
+    - apiVersion: v2
+      appVersion: latest
+      created: "2025-06-26T22:31:38.7244478-07:00"
+      description: A Helm chart for deploying the Qualys Cloud Agent as a DaemonSet
+      digest: a4489f7e613d75a585b67c34d96098aa8feedd4a0ac1049cb00f8777405c3c2a
+      name: qualys-agent
+      type: application
+      urls:
+        - https://nelssec.github.io/helm-charts/qualys-agent-0.1.0.tgz
+      version: 0.1.0
 generated: "2025-06-26T22:31:38.7239474-07:00"
->>>>>>> 0922049 (Add qualys-agent 0.1.0)
