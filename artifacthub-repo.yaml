@@ -1,0 +1,6 @@
+# artifacthub-repo.yml
+repositoryID: d8c70a8d-xxxx-xxxx-xxxx-xxxxxxxxxxxx  # You'll get this after first submission
+name: nelssec
+displayName: NelsSec Helm Charts
+description: Official Helm charts maintained by NelsSec
+url: https://github.com/nelssec/helm-charts
